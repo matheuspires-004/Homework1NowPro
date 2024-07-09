@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_highlighted_value_config">
+    <sys_ux_m2m_highlighted_value_config action="DELETE">
+        <highlighted_value display_value="state">79501032932e02103bc83a5efaba10ee</highlighted_value>
+        <highlighted_value_config display_value="State Now Pro">11d90e9b936602103bc83a5efaba101d</highlighted_value_config>
+        <order>0</order>
+        <sys_class_name>sys_ux_m2m_highlighted_value_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 01:34:51</sys_created_on>
+        <sys_id>2417ea9b93e602103bc83a5efaba1078</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Aula 1 - Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Aula 1 - Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_ux_m2m_highlighted_value_config_2417ea9b93e602103bc83a5efaba1078</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 01:34:51</sys_updated_on>
+    </sys_ux_m2m_highlighted_value_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Homework">d6deb19f932602103bc83a5efaba10d0</application>
+        <file_path/>
+        <instance_id>d4a540531b02b5147d9d2f8dee4bcbaf</instance_id>
+        <instance_name>dev195984</instance_name>
+        <name>sys_ux_m2m_highlighted_value_config_2417ea9b93e602103bc83a5efaba1078</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_highlighted_value_config"><sys_ux_m2m_highlighted_value_config action="INSERT_OR_UPDATE"><highlighted_value display_value="state">79501032932e02103bc83a5efaba10ee</highlighted_value><highlighted_value_config display_value="State Now Pro">11d90e9b936602103bc83a5efaba101d</highlighted_value_config><order>0</order><sys_class_name>sys_ux_m2m_highlighted_value_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-08 01:34:51</sys_created_on><sys_id>2417ea9b93e602103bc83a5efaba1078</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Aula 1 - Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package><sys_policy/><sys_scope display_value="Aula 1 - Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope><sys_update_name>sys_ux_m2m_highlighted_value_config_2417ea9b93e602103bc83a5efaba1078</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-08 01:34:51</sys_updated_on></sys_ux_m2m_highlighted_value_config></record_update>]]></payload>
+        <payload_hash>-735195944</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>92deb19f932602103bc83a5efaba10d5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 01:34:51</sys_created_on>
+        <sys_id>ac17eadb93e602103bc83a5efaba1082</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ff57bef0a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 01:34:51</sys_updated_on>
+        <type>Sys Ux M2m Highlighted Value Config</type>
+        <update_guid>e017eadb8ae60210d69718e7b0271482</update_guid>
+        <update_guid_history>e017eadb8ae60210d69718e7b0271482:-735195944</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 01:36:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_m2m_highlighted_value_config">sys_ux_m2m_highlighted_value_config</sys_db_object>
+        <sys_id>3f99f7c4274947bbab1b9cd3a4de1b59</sys_id>
+        <sys_metadata>2417ea9b93e602103bc83a5efaba1078</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_scope_delete display_value="">142512781cd44220835d5c5833396400</sys_scope_delete>
+        <sys_update_name>sys_ux_m2m_highlighted_value_config_2417ea9b93e602103bc83a5efaba1078</sys_update_name>
+        <sys_update_version display_value="sys_ux_m2m_highlighted_value_config_2417ea9b93e602103bc83a5efaba1078">ac17eadb93e602103bc83a5efaba1082</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 01:36:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

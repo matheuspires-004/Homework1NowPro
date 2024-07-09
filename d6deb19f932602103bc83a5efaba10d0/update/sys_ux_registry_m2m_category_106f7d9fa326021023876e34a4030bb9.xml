@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <order/>
+        <page_registry display_value="Gestão de Incidentes - Ex1">1c6f7d9fa12602108d2ac08bde709bcb</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 22:41:28</sys_created_on>
+        <sys_id>106f7d9fa326021023876e34a4030bb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_106f7d9fa326021023876e34a4030bb9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 22:41:28</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+</record_update>

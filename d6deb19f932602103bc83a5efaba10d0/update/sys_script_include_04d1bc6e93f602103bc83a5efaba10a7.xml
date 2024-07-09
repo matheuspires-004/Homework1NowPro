@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1328471_aula_1_0.incidentUtilsClient</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>incidentUtilsClient</name>
+        <script><![CDATA[var incidentUtilsClient = Class.create();
+incidentUtilsClient.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    /**SNDOC
+	 
+		@name checkUserByCaller
+		@description Verifica e retorna se um usuário é VIP
+		@returns {boolean} Retorna true caso o usuário verificado seja VIP. No contrário, retorna false
+	*/
+
+    checkUserByCaller: function() {
+
+        var caller = this.getParameter('sysparm_caller');
+        var isVip;
+
+        new global.GlideQuery('sys_user')
+            .where('sys_id', caller)
+            .select('vip')
+            .forEach(function(user) {
+
+                isVip = user.vip;
+
+            });
+
+        return isVip;
+
+    },
+
+    getCallerifVip: function() {
+
+        var CallerSysID = this.getParameter('sysparm_caller');
+        var VipState = 'false';
+
+        new global.GlideQuery('sys_user')
+            .where('sys_id', CallerSysID)
+            .select('vip')
+            .forEach(function(user) {
+
+                VipState = user.vip;
+				gs.info('[TESTE] - Vip status: ' + VipState);
+
+            });
+
+        return VipState;
+
+    },
+
+
+type: 'incidentUtilsClient'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 19:23:28</sys_created_on>
+        <sys_id>04d1bc6e93f602103bc83a5efaba10a7</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>incidentUtilsClient</sys_name>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_script_include_04d1bc6e93f602103bc83a5efaba10a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-27 02:23:23</sys_updated_on>
+    </sys_script_include>
+</record_update>

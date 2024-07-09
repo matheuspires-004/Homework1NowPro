@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Gestão de Incidentes -Ex2">43aadeabb8e60210f39c1e59ec032822</dashboard>
+        <group/>
+        <role display_value="x_1328471_aula_1_0.admin" name="x_1328471_aula_1_0.admin">1edeb19f932602103bc83a5efaba10fa</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 19:19:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4ba12eb93e602103bc83a5efaba10b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>43aadeabb8e60210f39c1e59ec032822</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>par_dashboard_permission_d4ba12eb93e602103bc83a5efaba10b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 19:19:15</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

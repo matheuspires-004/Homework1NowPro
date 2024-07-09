@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1328471_aula_1_0.gerente" name="x_1328471_aula_1_0.gerente">52deb19f932602103bc83a5efaba10f8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 22:39:07</sys_created_on>
+        <sys_id>5edeb19f932602103bc83a5efaba10f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>52deb19f932602103bc83a5efaba10f8</sys_name>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5edeb19f932602103bc83a5efaba10f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 22:39:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

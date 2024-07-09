@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>Esse evento envia um email ao gerente do departamento</description>
+        <event_name>x_1328471_aula_1_0.incident_manager</event_name>
+        <fired_by/>
+        <priority>100</priority>
+        <queue/>
+        <suffix>incident_manager</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 19:09:34</sys_created_on>
+        <sys_id>a8bea06a93f602103bc83a5efaba1000</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_1328471_aula_1_0.incident_manager</sys_name>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sysevent_register_a8bea06a93f602103bc83a5efaba1000</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 22:49:46</sys_updated_on>
+        <table>incident</table>
+    </sysevent_register>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Tasks - Incidents">13bf8fe1531201107f03ddeeff7b1274</ais_search_source>
+        <label>Incident</label>
+        <name>Tasks - Incidents</name>
+        <order>100</order>
+        <search_context_config display_value="Gestão de Incidentes -Ex2 AI Search Configuration">8baadeab24e60210ae466ef51740571f</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 19:19:17</sys_created_on>
+        <sys_id>24ba52eb93e602103bc83a5efaba1036</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks - Incidents</sys_name>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_search_filter_24ba52eb93e602103bc83a5efaba1036</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 19:19:17</sys_updated_on>
+    </sys_search_filter>
+</record_update>

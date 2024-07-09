@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Funcionário">a76cde2f93e602103bc83a5efaba1017</applicability>
+        <order>0</order>
+        <screen display_value="View Funcionários">9d89aa2f932a02103bc83a5efaba10f2</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-08 20:24:02</sys_created_on>
+        <sys_id>9189aa2f932a02103bc83a5efaba10f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_9189aa2f932a02103bc83a5efaba10f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-08 20:24:02</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

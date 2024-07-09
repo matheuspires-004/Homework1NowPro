@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Gestão de Incidentes - Aula 1+ generated</description>
+        <name>view</name>
+        <page display_value="Gestão de Incidentes - Ex1">1c6f7d9fa12602108d2ac08bde709bcb</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-07 22:41:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>146f7d9f8a260210dd6714ae97e187bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Homework" source="x_1328471_aula_1_0">d6deb19f932602103bc83a5efaba10d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Homework">d6deb19f932602103bc83a5efaba10d0</sys_scope>
+        <sys_update_name>sys_ux_page_property_146f7d9f8a260210dd6714ae97e187bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-07 22:41:28</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1328471_aula_1_0.1c6f7d9fa12602108d2ac08bde709bcb.root.view</unique_name>
+        <value>workspace-gest227o-de-incidentes---aula-1-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=146f7d9f8a260210dd6714ae97e187bb"/>
+</record_update>
